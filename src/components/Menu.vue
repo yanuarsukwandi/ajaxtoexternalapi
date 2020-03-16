@@ -24,13 +24,18 @@
             </v-list-tile-action>
           </v-list-tile>
 
-          <v-list-tile avatar tag="div">
+          <v-list-tile avatar>
             <v-list-tile-avatar>
-              <img src="https://randomuser.me/api/portraits/men/85.jpg" />
+              <img src="14m.jpg" />
             </v-list-tile-avatar>
 
             <v-list-tile-content>
-              <v-list-tile-title>John Leider</v-list-tile-title>
+              <br />
+              <v-list-tile-title>Yanuar Gandhira</v-list-tile-title>
+              <br />
+              <v-list-tile-subtitle color="grey"
+                >yanuar@gmail.com</v-list-tile-subtitle
+              >
             </v-list-tile-content>
 
             <v-list-tile-action>
